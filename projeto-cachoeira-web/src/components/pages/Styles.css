@@ -1,0 +1,48 @@
+.text-container {
+    margin-top: 15px;
+    margin-left: 50px;
+    margin-right: 50px;
+    text-align: justify;
+
+}
+.text-container2 {
+    margin-top: 15px;
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: justify;
+    justify-content: center;
+    
+    
+}
+.text-container-menor {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 12%;
+    margin-right: 12%;
+    font-size: 18px;
+}
+.text-title {
+    text-align: center;
+    margin-bottom: 15px;
+}
+.text-title2 {
+    text-align: center;
+    font-size: 22px;
+    margin-bottom: 15px;
+}
+.title {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+}
+.title2 {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+    margin-bottom: 35px;
+    margin-top: 45px;
+}
+.paragrafo {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight:500;
+}
+.list {
+    text-align: center;
+
+}
